@@ -4,9 +4,10 @@ Change log
 Added Dr.Bagel as photo
 Added Villager idle1,2,3 -randufett
 Added Damage hit1,2,3 -randufett
-1.01
 Added Zombie say1,2,3 -RanduFett
-1.02
 Added Pig say 1,2,3 -TheWizard
 Added pig death -TheWizard
 Added Endermen hit2 -TheWizard
+Added Endergdragon death sounds  -TheWizard
+Added player burn Fire 1,2,3 -TheWizard
+Released to CurseForge 
